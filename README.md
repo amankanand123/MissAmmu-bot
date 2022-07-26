@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/329647a798cccb101aecf.jpg">
+  <img src="https://telegra.ph/file/cbf075d51982fb5cf1265.jpg">
 </p>
 
 # Amelia Group BoT
